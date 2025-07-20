@@ -1,0 +1,18 @@
+const obj = {
+    prop1: value1;
+    prop2: value2;
+}
+
+create a webpage which has following things on UI 
+
+sunday 
+monday 
+....
+saturday
+
+there will be a button after each day (e.g.  Sunday [Delete])
+button name = delete
+position = next to each day name text
+color = grey
+
+when click on delete button the corresponding day name wll get deleted

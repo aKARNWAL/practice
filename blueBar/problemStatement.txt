@@ -1,0 +1,8 @@
+create a webpage which have 
+1) two buttons , postion top-right
+    i) text -> Increase length , (Right)
+    ii) text -> Decrease length , (left)
+2) blue bar ->
+    initial length = 100px(min length =  100px, max length = 1000px)
+    height = 10px
+    length will increase by 10px when clicked on increase length button, and will decrease by 10px when clicked on decrease length button
